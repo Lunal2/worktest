@@ -1,0 +1,52 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# === Visual Studio / Rider ===
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.suo
+*.user
+*.unityproj
+
+# === OS Generated ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# === PHP Specific ===
+/vendor/
+.env
+
+# === Logs ===
+*.log
+
+# === Others ===
+*.bak
+*.swp
+*.tmp
